@@ -2,4 +2,4 @@
 
 This is demo application from my [Creating Rails 5 API only application following JSON:API specification](https://www.simplify.ba/articles/2016/06/18/creating-rails5-api-only-application-following-jsonapi-specification/) article.
 
-# 11/02/2024
+# 14/02/2024
